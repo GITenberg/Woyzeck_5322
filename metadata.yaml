@@ -1,0 +1,36 @@
+_repo: Woyzeck_5322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Büchner, Georg
+    aliases:
+    - Buchner, Georg
+    - Von Zabeltitz, Georg Büchner Zobel
+    - Buechner, Carl Georg
+    - Zabeltitz, Georg Büchner Zobel von
+    - Büchner, Karl Georg
+    birthdate: 1813
+    deathdate: 1837
+    gutenberg_agent_id: '1690'
+    url: http://www.gutenberg.org/2009/agents/1690
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Büchner
+description: ''
+gutenberg_bookshelf:
+- Opera
+- DE Drama
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5322'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Mental health -- Drama'
+- !lcsh 'Germany -- Drama'
+- !lcsh 'Murderers -- Drama'
+- !lcc 'PT'
+- GITenberg
+title: Woyzeck
+url: http://www.gutenberg.org/ebooks/5322
