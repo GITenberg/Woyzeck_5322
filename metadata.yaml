@@ -1,5 +1,8 @@
 _repo: Woyzeck_5322
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Büchner, Georg
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1690
     wikipedia: http://en.wikipedia.org/wiki/Georg_Büchner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5322#Woyzeck
 gutenberg_bookshelf:
 - Opera
 - DE Drama
